@@ -297,8 +297,25 @@
         </text>
       </result>
       <result>
-        <id>https://www.loc.gov/resource/sn87065528/1944-04-28/ed-1/?sp=2&q=world+war+i&r=-0.642,-0.015,2.284,1.409,0</id>
-        <rel>1</rel>
+        <id>https://www.loc.gov/resource/sn87065528/1944-04-28/ed-1/?sp=2&amp;q=world+war+i&amp;r=-0.642,-0.015,2.284,1.409,0</id>
+        <rel>0</rel>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn83004278/1957-04-04/ed-1/?sp=13&amp;q=world+war+i</id>
+        <rel>0</rel>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn86075189/1948-09-24/ed-1/?sp=4&amp;q=world+war+i</id>
+        <rel>0</rel>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn84036106/1947-10-02/ed-1/?sp=2&amp;q=world+war+i</id>
+        <rel>0</rel>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn85053044/1945-02-16/ed-1/?sp=2&amp;q=world+war+i</id>
+        <rel>0</rel>
+      </result>
     </results>
   </topic>
   <topic>
