@@ -319,7 +319,7 @@
     </results>
   </topic>
   <topic>
-    <id>https://guides.loc.gov/chronicling-america-halloween/selected-articles</id>
+    <id>https://guides.loc.gov/chronicling-america-halloween</id>
     <results>
       <result>
         <id>https://www.loc.gov/resource/sn82014760/1861-10-31/ed-1/?sp=3&amp;q=Halloween+Hallow+Hallowmas&amp;st=text&amp;r=0.027,0.364,0.688,0.849,0</id>
@@ -719,17 +719,251 @@
     </results>
   </topic>
   <topic>
-    <id></id>
+    <id>https://guides.loc.gov/chronicling-america-crystal-eastman</id>
     <results>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>https://www.loc.gov/resource/sn88085187/1909-08-10/ed-1/?sp=4&amp;q=EASTMAN+Crystal+Eastman+workm</id>
+        <rel>1</rel>
+        <text>
+      Crystal Eastman, graduate of Vassar, is doing a man's work and the work
+      of a great man. When she went to Vassar College from her home in Elmira,
+      N.Y., she became interested in the course in sociology. She was one of the
+      most attractive girls in her class, but she disregarded social temptations,
+      and as soon as she graduated, she went out into the world to see how she
+      could help make it better. She took up work with the Russel Sage foundation.
+
+      She went to Pittsburgh and studied the workmen there. By living in the
+      homes of the toilers, she gained information about dangerous conditions
+      and employer neglect of injured workers, eventually publishing a pamphlet
+      that attracted wide attention and shed new light on problems in the great
+      city of furnaces and rolling mills.
+        </text>
       </result>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+        <id>https://www.loc.gov/resource/sn85042462/1910-10-09/ed-1/?sp=34&amp;q=Crystal+Eastman+workman+Commission</id>
+        <rel>1</rel>
+        <text>
+      Crystal Eastman, the one woman among fourteen members of the Employers’
+      Liability Commission, has been appointed its secretary. An alumna of
+      Vassar and a graduate of New York University’s law school, Miss Eastman
+      previously worked with the Russell Sage Foundation in Pittsburgh,
+      where she investigated industrial accidents and discovered that employers
+      were not caring for injured workers. By living among the toilers, she
+      published data that shed new light on safety conditions in steel mills.
+
+      Upon returning to New York, Miss Eastman accepted her current post
+      on the Commission charged with studying and improving the legal aspects
+      of industrial liability. Although one might expect a stern, “professional”
+      presence, she is described as an earnest, vital young woman who brings
+      both legal rigor and empathetic insight to the problem of workplace
+      accidents, focusing equally on pragmatic legal reforms and the humanitarian
+      need for worker protections.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn83045462/1913-10-28/ed-1/?sp=10&amp;q=Crystal+Eastman+Congressional+Union+PRESIDENT</id>
+        <rel>1</rel>
+        <text>
+      Mrs. Crystal Eastman Benedict went to Pittsburgh, Pa., today to represent the 
+      Congressional Union for Woman Suffrage at the Pennsylvania State Suffrage Convention. 
+      She is slated to address tomorrow night’s session, explaining the union’s efforts 
+      in Washington to secure a constitutional amendment granting women the right to vote.
+
+      Working as part of the Congressional Union, Mrs. Benedict is notable for 
+      her background in labor reforms and legal advocacy. Her journey to Pittsburgh 
+      spotlights the union’s expansion beyond the Nation’s Capital, aiming to galvanize 
+      state-level suffrage groups, rally public support, and ultimately influence Congress 
+      to approve a federal suffrage amendment.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn84020630/1913-11-05/ed-1/?sp=3&amp;q=Crystal+Eastman+industrial+relations</id>
+        <rel>1</rel>
+        <text>
+      Mrs. Crystal Eastman Benedict, of New York—both a lawyer and a noted social 
+      worker—has been chosen to lead the investigation of legislatures and courts under 
+      the newly formed Industrial Relations Commission. She joins other experts 
+      who will examine working conditions and industrial disputes, with her specific 
+      focus on how lawmakers and judicial bodies impact labor standards and protections.
+
+      In this role, Mrs. Eastman Benedict brings her extensive experience studying 
+      labor issues, including previous inquiries into workplace injuries and employers’ 
+      liabilities, to inform the Commission’s work. Her appointment signals a commitment 
+      to rigorous, humanitarian-driven analysis of how legislation and court rulings 
+      affect the everyday realities of American laborers.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn83030214/1914-05-03/ed-1/?sp=32&amp;q=Crystal+Eastman</id>
+        <rel>1</rel>
+        <text>
+      Mrs. Crystal Eastman Benedict, a leading member of the Congressional Union, 
+      worked alongside Alice Paul, Lucy Burns, and Emma Smith DeVoe to organize the 
+      Union’s nationwide suffrage demonstration on May 2. In just three months, she 
+      and her colleagues traveled across the country, rallying support for the plan 
+      to pressure Congress to adopt the Bristow-Mondell amendment granting women 
+      the right to vote.
+
+      During these travels, influential figures such as Charlotte Perkins Gilman, 
+      Ella Flagg Young, and Kate Waller Barrett joined the Congressional Union. 
+      Mrs. Eastman Benedict’s presence within this core group helped galvanize 
+      prominent allies in Washington, including congressional spouses and even 
+      Cabinet members' wives, effectively increasing political momentum for the 
+      suffrage amendment in the nation’s capital.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn83030214/1914-11-19/ed-1/?sp=7&amp;q=Crystal+Eastman+Benedict+lawyer+automobile</id>
+        <rel>1</rel>
+        <text>
+      Mrs. Crystal Eastman Benedict, known for her legal background and
+      social reform work, has taken on the role of helping an automobile
+      company recruit and train women as demonstrators. Inspired by accounts
+      of women in Europe successfully driving and maintaining cars under
+      wartime pressures, auto executive Walter Flanders believed American
+      women could likewise excel in operating and promoting automobiles.
+      Mrs. Benedict, with her prior investigative and organizational expertise,
+      was chosen to show that women can be highly capable in such
+      mechanical and sales tasks.
+
+      In discussing the plan, she noted how many American women are
+      already proficient at driving, demonstrating a delicate control and
+      awareness behind the wheel that buyers can trust. By actively recruiting
+      and training “lady automobilists,” Mrs. Benedict aims both to
+      advance women's economic opportunities and to encourage the industry
+      to acknowledge women's skills—an effort reflecting her broader
+      advocacy for expanded roles and rights for working women.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn83045433/1915-05-26/ed-1/?sp=6&amp;q=Crystal+Eastman+Benedict+limit+family+size+Unpaid</id>
+        <rel>1</rel>
+        <text>
+      According to Mrs. Crystal Eastman Benedict, for modern women “happiness” may
+      lie more in the ability to earn wages than in having “a home of their own.” 
+      She suggests that many women today find greater fulfillment in paid employment, 
+      pursuing their own careers rather than devoting themselves exclusively to 
+      household and family tasks, as might have been the case for earlier generations.
+
+      In voicing this viewpoint, Mrs. Benedict challenges the long-held belief 
+      that domestic roles alone suffice for women’s aspirations. Her advocacy 
+      reflects broader social changes in which an increasing number of women 
+      are seeking economic independence and professional accomplishment, moving 
+      beyond the traditional boundaries of home and family.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn83045433/1916-01-11/ed-1/?sp=2&amp;q=Crystal+Eastman+Peace+Addams+MENACE</id>
+        <rel>1</rel>
+        <text>
+      Miss Crystal Eastman Benedict declared that the entire preparedness 
+      campaign is “built upon a lie, an obvious lie.” She stated: “They tell us 
+      a two-power navy and a continental army will insure to this country the 
+      blessings of liberty, prosperity, and peace. We know that this is a lie. 
+      They say they are preparing us for peace, but the truth is they are 
+      preparing us for war.”
+
+      Her remarks came during a session of the Women’s Peace Party, where 
+      leading members, including Miss Eastman Benedict, argued strongly against 
+      the notion that militarization preserves peace. They instead championed 
+      diplomatic and educational efforts to maintain international harmony, 
+      warning that an arms race would only accelerate the march toward conflict.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn99021999/1916-03-04/ed-1/?sp=10&amp;q=Crystal+Eastman</id>
+        <rel>1</rel>
+        <text>
+      “Alimony is a relic of the Dark Ages,” said Crystal Eastman Benedict, 
+      suffragist, peace advocate, and former member of the New York Industrial 
+      Commission, in explaining why she requested none in her divorce suit 
+      against her husband, Wallace Benedict. She firmly believed that women 
+      should pursue independence and financial self-reliance rather than rely 
+      on post-marital maintenance.
+
+      Noted for her intellectual distinction as well as her beauty, Crystal 
+      Eastman married Benedict in 1911. She had been a practicing lawyer 
+      after graduating from Vassar and was a leader in the suffrage forces in 
+      Milwaukee the following year. Their marriage garnered public attention, 
+      and her stance against alimony reinforced her broader advocacy for 
+      women's rights and economic autonomy.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn83030193/1917-09-01/ed-1/?sp=2&amp;q=Crystal+Eastman+PACIFISTS+Peace</id>
+        <rel>1</rel>
+        <text>
+      Miss Crystal Eastman, a prominent leader of the People’s Council of America, stated from Minneapolis that the group would challenge Federal authorities in Washington about their right to hold a national peace convention. She and her colleagues argued that recent prohibitions on their assemblies, including one by Minnesota officials, violated constitutional liberties.  
+
+      In announcing the Council’s decision to move its intended meeting from Minneapolis directly to the nation’s capital, Miss Eastman emphasized that, if denied in Washington, they would be denied by the United States Government rather than by “the unpatriotic caprice of any local official.” Their plan involved holding a gathering on the plaza in front of the Capitol if no suitable building was available.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn84026749/1923-11-13/ed-1/?sp=6&amp;q=crystal+eastman</id>
+        <rel>1</rel>
+        <text>
+      In this advertisement for the December issue of “Cosmopolitan,” among many prominent writers listed—such as Irvin S. Cobb, Rupert Hughes, P. G. Wodehouse, and Kathleen Norris—appears the name of Crystal Eastman. She is described as providing “A startlingly frank account of her experiment in marriage,” part of a lineup that offers diverse topics from humor and adventure to mystery and romance.
+
+      By including Crystal Eastman in its pages, “Cosmopolitan” signaled the magazine’s intention to engage readers with contemporary social and personal issues. As a suffragist, peace advocate, and champion of women’s rights, Eastman’s piece on modern marriage would have complemented the broader variety of commentary and fiction aimed at a progressive and wide-ranging audience.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn84022871/1909-11-10/ed-1/?sp=5&amp;q=crystal+eastman&amp;r=-0.384,0.219,1.131,0.698,0</id>
+        <rel>1</rel>
+        <text>
+      Crystal Eastman, a graduate of Vassar, is described as doing “a man’s work and
+      the work of a great man.” She gained attention early on through her industrial
+      investigations in Pittsburgh under the Russell Sage Foundation, where she
+      exposed how employers neglected injured workers. By living with the toilers, she
+      collected detailed findings on workplace accidents, leading to a pamphlet that
+      attracted widespread notice.
+
+      Her latest recognition came from Governor Hughes of New York, who appointed
+      her to a special state commission to study unemployment. Alongside figures
+      like John Mitchell and economist Henry R. Seager, Miss Eastman provides vital
+      research and insights—she advocates, for instance, the principle that employers
+      must assume a limited but broad liability for injuries suffered by their workers
+      on the job.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn86090947/1916-12-15/ed-1/?sp=8&amp;q=crystal+eastman</id>
+        <rel>1</rel>
+        <text>
+      Although she legally became Mrs. Walter Fuller upon her second marriage, 
+      Crystal Eastman—radical feminist, suffrage leader, and advocate of birth control— 
+      reportedly insisted on retaining her maiden name. She had previously divorced 
+      Wallace J. Benedict, an insurance man, declining alimony out of principle.
+
+      Known for her stance that alimony symbolized outdated reliance on men, 
+      Crystal Eastman emphasized women’s financial autonomy. Already prominent 
+      for her work on labor reforms, suffrage, and peace activism, she also championed 
+      social reforms aimed at granting women greater independence, both financially 
+      and within family life.
+        </text>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn82016014/1914-03-18/ed-1/?sp=10&amp;q=crystal+eastman</id>
+        <rel>0</rel>
+      </result>
+      <result>
+        <id>https://www.loc.gov/resource/sn86091319/1915-07-03/ed-1/?sp=4&amp;q=crystal+eastman</id>
+        <rel>1</rel>
+        <text>
+      The company has accordingly placed Mrs. Crystal Eastman Benedict in
+      charge of its “saleswoman’s bureau,” and she reports that women thus
+      far employed are already proving their worth in automotive sales and
+      demonstration roles. With her background in social and legal reform,
+      Mrs. Benedict aims to open up new economic opportunities for women in
+      what has traditionally been a male-dominated field.
+
+      This initiative mirrors Mrs. Benedict’s broader view that women
+      demonstrators can convincingly highlight the modern car’s usability
+      for both sexes. By successfully handling and selling automobiles,
+      these women underscore the viability of employing female representatives
+      in industries long closed to them, furthering the cause of women’s
+      economic independence.
+        </text>
       </result>
     </results>
   </topic>
